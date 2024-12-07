@@ -55,7 +55,7 @@ const Contact: React.FC = () => {
               required
             />
             <TextArea name="message" placeholder="Sua Mensagem" required />
-            <Button type="submit">SEND</Button>
+            <Button type="submit">ENVIAR</Button>
           </Form>
           {success && (
             <div
