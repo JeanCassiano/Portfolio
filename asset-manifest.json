@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/JeanCassiano.github.io/static/css/main.e8084538.css",
-    "main.js": "/JeanCassiano.github.io/static/js/main.e350cd63.js",
-    "static/js/488.9561f9b8.chunk.js": "/JeanCassiano.github.io/static/js/488.9561f9b8.chunk.js",
-    "static/media/header_pic3.png": "/JeanCassiano.github.io/static/media/header_pic3.2e2805fdef9752dfe341.png",
-    "static/media/profile.jpg": "/JeanCassiano.github.io/static/media/profile.724cb8f44c0a2d1c0873.jpg",
-    "index.html": "/JeanCassiano.github.io/index.html",
-    "main.e8084538.css.map": "/JeanCassiano.github.io/static/css/main.e8084538.css.map",
-    "main.e350cd63.js.map": "/JeanCassiano.github.io/static/js/main.e350cd63.js.map",
-    "488.9561f9b8.chunk.js.map": "/JeanCassiano.github.io/static/js/488.9561f9b8.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.e8084538.css",
+    "main.js": "/Portfolio/static/js/main.b471667d.js",
+    "static/js/488.9561f9b8.chunk.js": "/Portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/header_pic3.png": "/Portfolio/static/media/header_pic3.2e2805fdef9752dfe341.png",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.724cb8f44c0a2d1c0873.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.e8084538.css.map": "/Portfolio/static/css/main.e8084538.css.map",
+    "main.b471667d.js.map": "/Portfolio/static/js/main.b471667d.js.map",
+    "488.9561f9b8.chunk.js.map": "/Portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8084538.css",
-    "static/js/main.e350cd63.js"
+    "static/js/main.b471667d.js"
   ]
 }
